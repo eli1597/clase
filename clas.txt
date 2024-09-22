@@ -1,1 +1,4 @@
-Clase ejercicios
+1: Introducción a Git
+2: Flujo de trabajo básico
+3: Repositorios remotos
+4: Trabajo con ramas
